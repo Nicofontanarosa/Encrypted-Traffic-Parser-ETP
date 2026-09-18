@@ -1,7 +1,5 @@
 # Encrypted Traffic Parser ETP — Master’s Thesis
 
-### Overview
-
 This repository contains the code and research developed for my **<mark>Master’s Thesis</mark>**. The goal is to extract meaningful metadata from encrypted network traffic ( *TLS, VPN etc ...* ) and use it to automatically generate detection rules for nDPI. The approach combines handshake analysis, TCP/TLS fingerprinting, and flow correlation to identify unknown or unclassified protocols.
 
 ![Static Badge](https://img.shields.io/badge/python-%20%3E%203.12-green?style=flat\&labelColor=red\&color=greed)
