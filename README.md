@@ -48,7 +48,7 @@ In this version, the interface will ask for all required paths ( **PCAP file, nD
 
 ---
 
-# 3️⃣ ⚙️ How it works?
+# ⚙️ How it works?
 
 📂 Output Files
 
@@ -84,7 +84,7 @@ nDPI (installed and compiled)
 
 ---
 
-## 5️⃣ Next Steps
+## Next Steps
 
 Once you have generated your rules, you can:
 
