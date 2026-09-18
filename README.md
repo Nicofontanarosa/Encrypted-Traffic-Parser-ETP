@@ -46,6 +46,12 @@ In this version, the interface will ask for all required paths ( **PCAP file, nD
 3. **<output_folder>** → directory where analysis results and generated rules will be saved (e.g., test/app/)
 4. **<proto_name>** → application name
 
+## 3️⃣ Next Steps
+
+Once you have generated your rules, you can:
+
+- Test them directly with your nDPI installation
+
 ---
 
 # ⚙️ How it works?
@@ -81,14 +87,6 @@ Python 3.10+
 nDPI (installed and compiled)
 
 (Optional) Textual → for the graphical interface
-
----
-
-## Next Steps
-
-Once you have generated your rules, you can:
-
-Test them directly with your nDPI installation
 
 ---
 
